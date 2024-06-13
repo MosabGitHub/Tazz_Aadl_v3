@@ -1,0 +1,6 @@
+.vs
+packages/
+*.docx
+DatabaseLast.bak
+LastDatabase10-06-2024.bak
+Database Scripts
